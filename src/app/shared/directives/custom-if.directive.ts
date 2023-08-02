@@ -13,8 +13,8 @@ export class CustomIfDirective {
     }
   }
 
-  constructor( private templateRef: TemplateRef<HTMLElement>, private viewContainer: ViewContainerRef) { 
-    
+  constructor( private templateRef: TemplateRef<HTMLElement>, private viewContainer: ViewContainerRef) {
+
   }
 
 }
